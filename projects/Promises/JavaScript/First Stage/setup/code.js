@@ -1,5 +1,5 @@
 function MyPromise() {
-    // implement the promise!
+    // do the thing, yeah!
 }
 
 export default MyPromise;
