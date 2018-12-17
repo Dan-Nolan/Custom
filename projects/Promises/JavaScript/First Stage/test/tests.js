@@ -15,5 +15,9 @@ describe('my promise', () => {
         it('should have a then function', () => {
             assert.equal(typeof instance.then, 'function');
         })
+
+        it('should have a catch function', () => {
+            assert.equal(typeof instance.catch, 'function');
+        })
     });
 });
