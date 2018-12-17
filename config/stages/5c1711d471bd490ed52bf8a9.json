@@ -1,0 +1,11 @@
+{
+  "containerId": "5c1711c471bd490ed52bf8a8",
+  "title": "First Stage",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5c1711d471bd490ed52bf8a9",
+  "codeFileIds": [
+    "5c1711e371bd490ed52bf8aa"
+  ]
+}
