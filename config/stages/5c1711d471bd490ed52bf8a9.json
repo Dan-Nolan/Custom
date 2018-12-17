@@ -10,5 +10,6 @@
   ],
   "language": "javascript",
   "testFramework": "mocha_bdd",
-  "languageVersion": "8.x/babel"
+  "languageVersion": "8.x/babel",
+  "type": "CodeStage"
 }
