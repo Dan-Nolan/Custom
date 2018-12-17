@@ -1,5 +1,5 @@
 {
-  "executablePath": "tests.js",
+  "executablePath": "test/tests.js",
   "name": "tests.js",
   "testFixture": true,
   "stageContainerId": "5c1711c471bd490ed52bf8a8",

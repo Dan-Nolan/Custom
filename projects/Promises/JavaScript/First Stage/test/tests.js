@@ -1,4 +1,4 @@
-import MyPromise from './code';
+import MyPromise from '../code';
 const assert = require('assert');
 
 describe('my promise', () => {
