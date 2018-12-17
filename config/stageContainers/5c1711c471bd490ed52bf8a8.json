@@ -2,6 +2,6 @@
   "id": "5c1711c471bd490ed52bf8a8",
   "type": "BuildingBlock",
   "stageContainerGroupId": "5c1711c471bd490ed52bf8a7",
-  "version": "TBD",
+  "version": "JavaScript",
   "intro": "$$LOOKUP"
 }

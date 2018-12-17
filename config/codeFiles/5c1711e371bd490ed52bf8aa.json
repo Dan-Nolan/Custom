@@ -7,5 +7,6 @@
     "5c1711d471bd490ed52bf8a9"
   ],
   "id": "5c1711e371bd490ed52bf8aa",
-  "initialCode": "$$LOOKUP"
+  "initialCode": "$$LOOKUP",
+  "mode": "javascript"
 }
