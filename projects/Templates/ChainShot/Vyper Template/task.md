@@ -1,4 +1,4 @@
-## Solidity Task
+## Vyper Task
 
 Outline the things that need to be done in order to write a smart contract that passes all of the test cases.
 
